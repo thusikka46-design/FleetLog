@@ -1,0 +1,6 @@
+{
+  "name": "FleetLog Pro",
+  "description": "Real-Time Delivery & Vehicle Maintenance Portal with live fleet telemetry, fuel efficiency tracking, and predictive maintenance scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
